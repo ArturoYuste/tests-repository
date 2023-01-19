@@ -28,7 +28,7 @@ paises: any[] = [
   { value: 'hu', nombre: 'Hungria'},
   { value: 'mx', nombre: 'Mexico'},
   { value: 'gb', nombre: 'Reino Unido'},
-  { value: 'es', nombre: 'España'},
+  { value: 'us', nombre: 'EEUU'},
 ]
 
   constructor() { }
